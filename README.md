@@ -24,7 +24,6 @@ Dự án này nhằm mục đích phát hiện ung thư vú bằng cách sử d�
 - **src/**: Chứa mã nguồn chính của dự án.
   - `models.py`: Chứa các định nghĩa mô hình.
   - `utils.py`: Chứa các hàm tiện ích.
-  - `tempCodeRunnerFile.py`: Tệp tạm thời cho việc chạy mã.
 
 ## Cài đặt
 1. Clone repository này về máy của bạn:
