@@ -42,6 +42,3 @@ Dự án này nhằm mục đích phát hiện ung thư vú bằng cách sử d�
 
 ## Kết quả
 Dự án này sẽ cung cấp các kết quả đánh giá cho từng mô hình, bao gồm độ chính xác, độ nhạy và độ đặc hiệu.
-
-## Liên hệ
-Nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với tôi qua email: [your-email@example.com]
